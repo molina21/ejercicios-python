@@ -1,0 +1,9 @@
+as un ejercicio que calcule la tabla de multiplicar de un numero introducido
+por el teclado por el usuario.
+
+numero=int(ran_imput(ingrese el numero del cual desee la tabla de multiplicar\ar:))
+rango=range(1,11)
+for elemento in rango:
+producto=numero*elemento
+print numero, "x" elemento, "=",producto
+print esta es la tabla de multiplicar

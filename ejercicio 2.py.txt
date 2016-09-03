@@ -1,0 +1,13 @@
+pedir 3 numeros que puedan ser decimales al usuario base y altura de un rectangulo
+y radio de uncirculo, calculen perimetro y area de cada figura.
+
+base=float(input("introduce la base:"))
+altura=float(input("introduce la altura:"))
+radio= float(input(intoduce el radio:"))
+p=3.1416
+perirec=2*(base + altura)
+pericir=2*(p*radio)
+arearec=base*altura
+areacir(radio**2)*p
+print("el perimetro es", perirec",perirec y" y el arearec",
+print("el perimetro es" areacir",areacir y"y el areacir",
